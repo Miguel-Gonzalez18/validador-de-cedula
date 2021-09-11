@@ -465,3 +465,10 @@
         border-radius: 10px;
       }
   }
+  .advertencia{
+    color: #7B241C;
+  }
+  .correcto{
+      color: #196F3D;
+      font-size: 1.2em;
+  }
